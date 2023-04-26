@@ -14,7 +14,7 @@ var maxProfit = function(prices) {
         r++;
     }
 
-    return 0;
+    return max;
 };
 
 maxProfit([7,1,5,3,6,4])
